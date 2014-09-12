@@ -1,0 +1,13 @@
+run:
+vvedite celochislenie zna43nie,razmer massiva budet na 1menshe zadanogo vami v sluchae so vtorym metodom sortirovki
+5
+14
+84
+12
+94
+kol-vo iteratziy pri etom metode sostavilo 2
+12
+14
+84
+94
+СБОРКА УСПЕШНО ЗАВЕРШЕНА (общее время: 2 секунды)

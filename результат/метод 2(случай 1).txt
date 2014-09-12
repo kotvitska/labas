@@ -1,0 +1,13 @@
+run:
+vvedite celochislenie zna43nie,razmer massiva budet na 1menshe zadanogo vami v sluchae so vtorym metodom sortirovki
+5
+28
+38
+79
+51
+kol-vo iteratziy pri etom metode sostavilo 0
+28
+38
+79
+51
+СБОРКА УСПЕШНО ЗАВЕРШЕНА (общее время: 3 секунды)
