@@ -1,5 +1,7 @@
+
 package laba1;
 
+public class Lab1 {
 public static void main(String[] args){
 int i,f[],c;
 Scanner a= new Scanner(System.in); //инициализация аналога cin в c++
@@ -12,4 +14,4 @@ for (i=1; i<=c; i++)
 	f[i]=f[i]+f[i-1];	
 	}
 System.out.println(f[i]);
-}
+}}
