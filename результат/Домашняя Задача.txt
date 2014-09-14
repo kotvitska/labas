@@ -1,0 +1,15 @@
+package laba1;
+
+public static void main(String[] args){
+int i,f[],c;
+Scanner a= new Scanner(System.in); //инициализация аналога cin в c++
+System.out.println("vvedite poriadok 4isla fibbona4i");
+c=a.nextInt(); // cin
+f[0]=1;
+f[1]=2;
+for (i=1; i<=c; i++)
+	{		
+	f[i]=f[i]+f[i-1];	
+	}
+System.out.println(f[i]);
+}

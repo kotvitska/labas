@@ -15,10 +15,9 @@ public class Lab1 {
     /**
      * @param args the command line arguments
      */
-   // простите что задержал лабораторную, прошу не занижать оценку за столь поздний срок
-    public static void main(String[] args) { //обьявление класса
+     public static void main(String[] args) { //обьявление класса
        int b,c,i,j; //обьявление переменных
-       int mas[]; // обьявление массива выделил в отдельную строку
+       int mas[]; // обьявление массива выделила в отдельную строку
       int res,schetchik; // обьявление переменных для работы с циклом
        schetchik=0; // начальное значение счетчика
        Scanner a= new Scanner(System.in); //инициализация аналога cin в c++
